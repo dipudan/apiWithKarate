@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.javafaker.Faker;
 import examples.dto.User;
 
+
 public class Util {
 
     public static String createRandomUser() {
